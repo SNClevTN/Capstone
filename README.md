@@ -18,4 +18,4 @@ PDFs from FBI Internet Crime Complaint Center [Annual Reports](https://www.ic3.g
 
 ### Known Issues and Challenges
 The data is in PDFs with no set format from year to year, web scraping will lead to a large amount of cleaning within Python. Cleaning, organizing, and analyzing the data enforced my skill set of making data usable. 
-In Tableau I will tell the story of how internet scammers have change over the years, and what to tell your parents and grandparents to watch out for.
+In Tableau I will tell the story of how internet scammers have changed over the years, and what to tell your parents and grandparents to watch out for.
