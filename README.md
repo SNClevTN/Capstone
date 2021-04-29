@@ -12,7 +12,7 @@ How has internet crimes been monetized, tracked, and harmed victims over the pas
 Organize the data and see what format each year has will be the priority to begin the project. Once clean databases have been created, I will be using Tableau to make visualizations to show users who the scammers target, what schemes they are using, and more.
 
 ### Data Sources
-Main Article: The State of Data, March 2021 (forbes.com)
+Main Article: The State of Data, March 2021 [Forbes](https://www.forbes.com/sites/gilpress/2021/03/31/the-state-of-data-march-2021/?sh=75cf88ff3628)
 PDF’s from FBI Internet Crime Complaint Center: Internet Crime Complaint Center (IC3) | Annual Reports
 
 ### Known Issues and Challenges
